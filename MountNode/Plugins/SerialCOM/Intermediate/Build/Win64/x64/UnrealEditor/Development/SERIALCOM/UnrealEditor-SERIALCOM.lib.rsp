@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-SERIALCOM.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\3Dubu_portatil\Desktop\SY\TFG_MountNode\MountNode\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\3Dubu_portatil\Desktop\SY\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
-"C:\Users\3Dubu_portatil\Desktop\SY\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
-/OUT:"C:\Users\3Dubu_portatil\Desktop\SY\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
+"C:\Users\Digiubu5\Desktop\PruebaVR\TFG_MountNode\MountNode\Intermediate\Build\Win64\x64\PruebaVREditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Digiubu5\Desktop\PruebaVR\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+"C:\Users\Digiubu5\Desktop\PruebaVR\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
+/OUT:"C:\Users\Digiubu5\Desktop\PruebaVR\TFG_MountNode\MountNode\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
