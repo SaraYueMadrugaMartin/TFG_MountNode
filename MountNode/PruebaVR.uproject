@@ -10,7 +10,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android"
+				"Android",
+				"VisionOS"
 			]
 		},
 		{
@@ -28,8 +29,17 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android"
+				"Android",
+				"VisionOS"
 			]
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
+		},
+		{
+			"Name": "SpeechRecognition",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
