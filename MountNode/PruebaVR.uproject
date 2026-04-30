@@ -40,6 +40,10 @@
 		{
 			"Name": "SpeechRecognition",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
